@@ -12,7 +12,10 @@
 ##FAMOUS-BUG BOT-V1 Deployment Methods
 ---
 1.  **Fork Repo First, [`CLICK HERE`](https://github.com/Papaigwe1234/FAMOUS-BUG/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
-2.  **Get `**SESSION ID**`  [`IGWE SESSION`](https://replit.com/@deeceexxx01/DavidCyril-X-pair-1)** 
+2. <p align="center">
+    <a href='https://replit.com/@deeceexxx01/DavidCyril-X-pair-1'target="_blank">
+        <img alt='SESSION' src='https://img.shields.io/badge/Get%20Session%20ID-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/>
+    </a>
 
 3. **UPLOAD YOUR CREDS.JSON FILE ON SESSION FOLDER**
 
@@ -36,5 +39,5 @@
 
 ## Community and Support
 
-FOLLOW DAVID CYRIL WHAtSAPP CHANNEL FOR MORE UPDATES
+FOLLOW IGWE TECH WHAtSAPP CHANNEL FOR MORE UPDATES
 [![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029VartOqACMY0OUI2n350j))
