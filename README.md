@@ -8,7 +8,12 @@
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-PAPA_IGWE-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 
+# 🚨WARN🚨
+𝐈 𝐀𝐌 𝐍𝐎𝐓 𝐑𝐄𝐒𝐏𝐎𝐍𝐒𝐈𝐁𝐋𝐄 𝐅𝐎𝐑 𝐘𝐎𝐔𝐑 𝐁𝐀𝐍𝐍𝐈𝐍𝐆 𝐎𝐍 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐀𝐓 𝐘𝐎𝐔𝐑 𝐎𝐖𝐍 𝐏𝐄𝐑𝐈𝐋.
+𝐓𝐇𝐈𝐒 𝐁𝐎𝐓 𝐈𝐒 𝐄𝐍𝐂𝐑𝐘𝐏𝐓𝐄𝐃 𝐀𝐍𝐃 𝐏𝐑𝐎𝐓𝐄𝐂𝐓𝐄𝐃 𝐁𝐘 𝐓𝐇𝐄 𝐀𝐏𝐀𝐂𝐇𝐄-𝟐.𝟎 𝐋𝐈𝐂𝐄𝐍𝐒𝐄.
+𝐓𝐇𝐈𝐒 𝐁𝐎𝐓 𝐈𝐒 𝐍𝐎𝐓 𝐀𝐍 𝐎𝐏𝐄𝐍 𝐒𝐎𝐔𝐑𝐂𝐄.
 
+===================================================
 ##FAMOUS-BUG BOT-V1 Deployment Methods
 ---
 1.  **Fork Repo First, [`CLICK HERE`](https://github.com/Papaigwe1234/FAMOUS-BUG/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
