@@ -35,7 +35,7 @@
 
 - *FAMOUS-BUG-V1 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Queen_Anita-V1 at your own risk by keeping this warning in mind.*
+- *Use FAMOUS-BUG-V1 at your own risk by keeping this warning in mind.*
   
   #### ``PAPA IGWE PROFILE VIEWS 🧚```
 ![Visitor Count](https://profile-counter.glitch.me/DeeCeeXxx/count.svg)
@@ -45,4 +45,7 @@
 ## Community and Support
 
 FOLLOW IGWE TECH WHAtSAPP CHANNEL FOR MORE UPDATES
-[![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029VartOqACMY0OUI2n350j))
+[![JOIN WHATSAPP GROUP]<a href="https://whatsapp.com/channel/0029VartOqACMY0OUI2n350j">
+        <img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-green?style=for-the-badge&logo=whatsapp&logoColor=black"/>
+    </a>
+</p>
