@@ -32,6 +32,7 @@
 
 7. **Deploy on [`RAILWAY`](https://railway.com)**
 
+9. **deploy on [`RENDER`](https//render.com)**
 
 - *FAMOUS-BUG-V1 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
