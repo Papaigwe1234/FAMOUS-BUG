@@ -18,7 +18,7 @@
 ---
 1.  **Fork Repo First, [`CLICK HERE`](https://github.com/Papaigwe1234/FAMOUS-BUG/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
 2. <p align="center">
-    <a href='https://replit.com/@deeceexxx01/DavidCyril-X-pair-1'target="_blank">
+    <a href='https://toge-session-ai.onrender.com'target="_blank">
         <img alt='SESSION' src='https://img.shields.io/badge/Get%20Session%20ID-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/>
     </a>
 
